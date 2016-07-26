@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The home of STRT TRBl Music.]]></title>
         <description><![CDATA[The home of STRT TRBl Music.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/strt_trbl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 15:11:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jul 2016 15:16:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/strt_trbl/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[Swade "Highway 27" Official Music Video]]></title>
             <description><![CDATA[<p>Watch the latest video from Swade!</p>]]></description>
-            <link>undefinedwatch-the-latest-video-from-swade/index.html</link>
+            <link>https://thegrid.ai/strt_trbl/watch-the-latest-video-from-swade/index.html</link>
             <guid isPermaLink="false">df22fec2-6770-48fe-b837-8d64bf6842d5</guid>
-            <pubDate>Tue, 26 Jul 2016 15:11:25 GMT</pubDate>
+            <pubDate>Tue, 26 Jul 2016 15:16:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
