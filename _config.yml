@@ -1,4 +1,4 @@
-name: STRT TRBL
+name: STRT TRBL Music Inc.
 favicon: null
 layout_spectrum: 0.760444013401866
 typography_spectrum: 0.6971459984779358
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.7074901619926095
+    - '#321610'
+    - '#ffffff'
+    - '#e4654a'
+    - '#e1dddc'
+    - '#948682'
+  brandStrength: 0.875
   lightness: 0.2187079202849418
   saturation: 0.43179767834953964
   rhythmicContrast: 0.2917946202214807
